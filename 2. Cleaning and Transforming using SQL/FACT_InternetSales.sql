@@ -26,7 +26,7 @@ SELECT
   --  ,[DueDate] 
   --  ,[ShipDate] 
 FROM 
-  [AdventureWorksDW2022].[dbo].[FactInternetSales]
+  [AdventureWorksDW2019].[dbo].[FactInternetSales]
 WHERE 
   LEFT (OrderDateKey, 4) >= YEAR(GETDATE()) -2 -- Ensures we always only bring two years of date from extraction.
 ORDER BY
