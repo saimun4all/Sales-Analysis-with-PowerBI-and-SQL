@@ -1,4 +1,4 @@
-Case
+Case -
 We need to improve our internet sales reports and want to move from static reports to visual dashboards.
 Essentially, we want to focus in on how much we have sold of what products, to which clients and how it has been over time.
 Seeing as each sales person works on different products and customers, it would be beneficial to be able also able to filter them.
